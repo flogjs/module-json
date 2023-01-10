@@ -72,3 +72,6 @@ Version, containing either only a major version (`1`), a major and minor
 
 This field is *not* compatible with the corresponding field in package.json.
 For example, the character `^` or `~` is not allowed.
+
+[core]: https://github.com/flogjs/flog
+[std]: https://github.com/flogjs/std
