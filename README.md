@@ -46,7 +46,7 @@ License.
 
 ### `loaders`
 
-Map of custom extensions loaders (any file hextension that is not `js`, `json`
+Map of custom extensions loaders (any file extension that is not `js`, `json`
 or `so`).
 
 ### `name`
